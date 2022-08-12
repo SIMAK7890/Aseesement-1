@@ -1,0 +1,31 @@
+
+
+body{
+    background-image: linear-gradient(to left top, #c6fced, #a3efda, #7fe3c7, #54d5b3, #00c89f);
+    color: #2F3139;
+    margin: 10rem auto;
+    height:50vh;
+  }
+  h1 {
+    font-size: 1.5rem;
+
+    text-align: center;
+}
+p 
+{
+     text-align: center;
+}
+
+
+.form
+{
+     text-align: center;
+}
+  
+  .lastResult {
+     color: white;
+     padding: 3px;
+  }
+  button {
+    margin-left:10rem ;
+  }
